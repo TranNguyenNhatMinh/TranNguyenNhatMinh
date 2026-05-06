@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Trần Nguyễn Nhật Minh
 
-### IT Student · Web Developer · Data Enthusiast
+### IT Student · Web Developer · ITBA
 
 I’m a 2nd-year Information Technology student who enjoys building modern web applications, full-stack projects, and data-driven dashboards.
 
